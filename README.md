@@ -1,2 +1,2 @@
-# UnityProject02
-Ex研修02
+# UnityProject
+Ex研修
